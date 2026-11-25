@@ -1,0 +1,6 @@
+{
+  "name": "Factura AI — Automatisation de la facturation",
+  "description": "Plateforme SaaS de gestion documentaire et facturation (Rôle D — Hackathon BWAI 2026) : cycle de vie des brouillons, vérification humaine, validation idempotente, numérotation unique, avoirs liés, audit persistant, émission simulée et export PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
